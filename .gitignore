@@ -2,3 +2,5 @@
 .env
 */static/js/*.js
 /src/static/
+.env
+/src/static/
